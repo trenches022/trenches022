@@ -16,8 +16,8 @@ I'm a fast-learning aspiring programmer with a passion for coding. My main progr
 
 =================================================
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trenches022)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trenches022&theme=midnight-purple)](https://git.io/streak-stats)
 
 [![codewars](https://www.codewars.com/users/trenches022/badges/small)](https://www.codewars.com/users/trenches022)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trenches022&layout=compact)](https://github.com/trenches022/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trenches022&layout=compact&theme=midnight-purple)](https://github.com/trenches022/github-readme-stats)
