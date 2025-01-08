@@ -6,7 +6,7 @@ Web Developer
 
 I'm a fast-learning aspiring programmer with a passion for coding. My main programming language is JavaScript, and I specialize in the React framework. I'm constantly working on improving my skills and building exciting projects.
 
-* 🌍  I'm based in Poland
+🌍  I'm based in Poland
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Skills)](https://git.io/typing-svg)
 
