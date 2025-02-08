@@ -1,7 +1,7 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
 =======================================================================================================================================
 
-Web Developer
+Frontend Dev
 -------------
 
 I'm a fast-learning aspiring programmer with a passion for coding. My main programming language is JavaScript, and I specialize in the React framework. I'm constantly working on improving my skills and building exciting projects.
