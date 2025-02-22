@@ -20,4 +20,4 @@ I'm a fast-learning aspiring programmer with a passion for coding. My main progr
 
 [![codewars](https://www.codewars.com/users/trenches022/badges/small)](https://www.codewars.com/users/trenches022)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trenches022&layout=compact&theme=midnight-purple)](https://github.com/trenches022/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trenches022&layout=donut&theme=midnight-purple)](https://github.com/trenches022/github-readme-stats)
