@@ -4,7 +4,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Frontend Dev
 -------------
 
-I'm a fast-learning aspiring programmer with a passion for coding. My main programming language is JavaScript, and I specialize in the React framework. I'm constantly working on improving my skills and building exciting projects.
+I'm a self-taught Frontend Developer passionate about building interactive and scalable web applications. My main stack is React + TypeScript, and I'm constantly improving my skills by working on real-world projects.
 
 🌍  I'm based in Poland
 
