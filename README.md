@@ -10,6 +10,10 @@ I'm a self-taught Frontend Developer passionate about building interactive and s
 
 👨‍💻  Currently learning TypeScript <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="18" height="18"/></a> + React.ts <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="18" height="18" alt="React" /></a>
 
+📫 How to reach me **romanvagner022@gmail.com**
+
+🖥️  See **[my portfolio](https://trenches022.xyz)**
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9509F7&width=435&lines=Skills)](https://git.io/typing-svg)
 
 
