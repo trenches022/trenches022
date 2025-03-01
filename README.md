@@ -1,7 +1,7 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
 =======================================================================================================================================
 
-Frontend Dev
+Frontend Developer
 -------------
 
 I'm a self-taught Frontend Developer passionate about building interactive and scalable web applications. My main stack is React + TypeScript, and I'm constantly improving my skills by working on real-world projects.
