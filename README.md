@@ -25,3 +25,6 @@ I'm a self-taught Frontend Developer passionate about building interactive and s
 [![codewars](https://www.codewars.com/users/trenches022/badges/small)](https://www.codewars.com/users/trenches022)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trenches022&layout=donut&theme=midnight-purple)](https://github.com/trenches022/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trenches022&theme=midnight-purple&card_width=350)](https://git.io/streak-stats)
+
