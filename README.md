@@ -8,7 +8,7 @@ I'm a self-taught Frontend Developer passionate about building interactive and s
 
 🌍  I'm based in Poland
 
-👨‍💻  Currently learning Next.js <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="18" height="18" alt="NextJs" /></a> and TypeScript <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="18" height="18"/></a> + React.ts <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="18" height="18" alt="React" /></a>
+👨‍💻  Currently learning Next.js <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="18" height="18" alt="NextJs" /></a> and TypeScript <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="18" height="18"/></a>
 
 📫 How to reach me **romanvagner022@gmail.com**
 
